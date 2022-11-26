@@ -8,7 +8,7 @@ const ChannelVisual = () => {
 
     return (
         <>
-            <S.ChannelVisual imagePath={`${process.env.REACT_APP_PUBLIC_IMAGES_DIR}/${currentChannelInfo.number}`} />
+            <S.ChannelVisual imagePath={`${process.env.PUBLIC_URL}/images/${currentChannelInfo.number}`} />
             <Credits />
         </>
     );
