@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/cloud-remote-and-tv-part3-tv/static/js/main.df7416dd.js",
+    "static/js/787.4656a200.chunk.js": "/cloud-remote-and-tv-part3-tv/static/js/787.4656a200.chunk.js",
+    "index.html": "/cloud-remote-and-tv-part3-tv/index.html",
+    "main.df7416dd.js.map": "/cloud-remote-and-tv-part3-tv/static/js/main.df7416dd.js.map",
+    "787.4656a200.chunk.js.map": "/cloud-remote-and-tv-part3-tv/static/js/787.4656a200.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.df7416dd.js"
+  ]
+}
